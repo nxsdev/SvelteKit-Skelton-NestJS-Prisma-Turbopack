@@ -1,0 +1,6 @@
+
+> ui@0.0.0 lint /home/noc/dev/gem-finder/packages/ui
+> prettier --check --ignore-path=../../.prettierignore . && eslint "."
+
+Checking formatting...
+All matched files use Prettier code style!
