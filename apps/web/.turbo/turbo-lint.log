@@ -1,6 +1,0 @@
-
-> web@0.0.1 lint /home/noc/dev/gem-finder/apps/web
-> prettier --check . && eslint .
-
-Checking formatting...
-All matched files use Prettier code style!
